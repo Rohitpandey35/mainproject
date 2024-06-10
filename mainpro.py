@@ -1,9 +1,4 @@
-import streamlit as st 
-import pandas as pd 
-import matplotlib.pyplot as plt 
-import plotly.express as px 
-from itertools import combinations  # find combinations between products 
-from collections import Counter    # count combinations
+
 
 
 st.title('Amazon Analytics Report')
